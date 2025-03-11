@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 229 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -16,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-🌆 Daytime                1249 commits        ████████████░░░░░░░░░░░░░   48.11 % 
-🌃 Evening                765 commits         ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-🌙 Night                  296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌞 Morning                292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+🌆 Daytime                1285 commits        ████████████░░░░░░░░░░░░░   48.38 % 
+🌃 Evening                776 commits         ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+🌙 Night                  303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   498 commits         █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Tuesday                  457 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Wednesday                419 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Thursday                 454 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Friday                   356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Saturday                 219 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Sunday                   193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Monday                   513 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Tuesday                  461 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Wednesday                433 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Thursday                 466 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Friday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Saturday                 224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Sunday                   196 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 ```
 
 
@@ -40,25 +42,24 @@ Sunday                   193 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               4 hrs 56 mins       ████████████████░░░░░░░░░   63.70 % 
-HTML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Nginx configuration file 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+TypeScript               1 hr 43 mins        ███████████░░░░░░░░░░░░░░   42.85 % 
+YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Nginx configuration file 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+SQL                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  3 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.57 % 
-frontend                 1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-main                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-coding_supporter         20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-바탕 화면                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+frontend                 1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+main                     1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   30.91 % 
+backend                  36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+react                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+coding_supporter         20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 
 💻 Operating System: 
-WSL                      7 hrs 8 mins        ███████████████████████░░   91.97 % 
-Windows                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+WSL                      4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,5 +79,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2025 18:46:05 UTC
+ Last Updated on 11/03/2025 18:48:07 UTC
 <!--END_SECTION:waka-->
