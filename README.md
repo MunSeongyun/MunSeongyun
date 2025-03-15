@@ -13,6 +13,53 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+🌆 Daytime                1393 commits        ████████████░░░░░░░░░░░░░   49.12 % 
+🌃 Evening                809 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+🌙 Night                  324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   558 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Tuesday                  473 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Wednesday                475 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Thursday                 502 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Friday                   384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Saturday                 239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Sunday                   205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+YAML                     25 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
+Docker                   19 mins             ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Nginx configuration file 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+
+🔥 Editors: 
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+react                    21 mins             ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+coding_supporter         20 mins             ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+frontend                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+fastapi                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+nest                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+
+💻 Operating System: 
+WSL                      1 hr 12 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -30,5 +77,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2025 18:46:53 UTC
+ Last Updated on 15/03/2025 18:44:18 UTC
 <!--END_SECTION:waka-->
