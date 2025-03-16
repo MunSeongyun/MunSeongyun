@@ -40,24 +40,25 @@ Sunday                   205 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-YAML                     25 mins             █████████░░░░░░░░░░░░░░░░   35.24 % 
-Docker                   19 mins             ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Nginx configuration file 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+YAML                     25 mins             ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Python                   24 mins             ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+Docker                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Nginx configuration file 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-react                    21 mins             ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-coding_supporter         20 mins             ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-frontend                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-fastapi                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-nest                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+react                    21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+coding_supporter         20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+DDoS                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+frontend                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+fastapi                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 💻 Operating System: 
-WSL                      1 hr 12 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 12 mins        ████████████████████░░░░░   81.37 % 
+Windows                  16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,5 +78,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2025 18:44:18 UTC
+ Last Updated on 16/03/2025 18:45:54 UTC
 <!--END_SECTION:waka-->
