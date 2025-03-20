@@ -40,23 +40,20 @@ Sunday                   205 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   16 mins             █████████████████░░░░░░░░   69.99 % 
-TypeScript               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   16 mins             ████████████████████░░░░░   78.39 % 
+TypeScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DDoS                     16 mins             ██████████████████░░░░░░░   71.34 % 
-frontend                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-main                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+DDoS                     16 mins             ████████████████████░░░░░   79.91 % 
+frontend                 4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 
 💻 Operating System: 
-Windows                  16 mins             ██████████████████░░░░░░░   71.34 % 
-WSL                      6 mins              ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+Windows                  16 mins             ████████████████████░░░░░   79.91 % 
+WSL                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,5 +73,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 18:49:42 UTC
+ Last Updated on 20/03/2025 18:47:30 UTC
 <!--END_SECTION:waka-->
