@@ -40,20 +40,24 @@ Sunday                   205 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   16 mins             ████████████████████░░░░░   78.39 % 
-TypeScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Python                   16 mins             ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+JSON                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+TypeScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+JavaScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+YAML                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DDoS                     16 mins             ████████████████████░░░░░   79.91 % 
-frontend                 4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+sugang_system            27 mins             ████████████░░░░░░░░░░░░░   48.89 % 
+DDoS                     16 mins             ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+frontend                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 💻 Operating System: 
-Windows                  16 mins             ████████████████████░░░░░   79.91 % 
-WSL                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+WSL                      40 mins             ██████████████████░░░░░░░   70.82 % 
+Windows                  16 mins             ███████░░░░░░░░░░░░░░░░░░   29.18 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +77,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2025 18:47:30 UTC
+ Last Updated on 22/03/2025 18:43:59 UTC
 <!--END_SECTION:waka-->
