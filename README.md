@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 229 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,25 +42,25 @@ Sunday                   205 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       █████████████████░░░░░░░░   68.26 % 
-TypeScript               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Python                   4 hrs 1 min         ██████████████░░░░░░░░░░░   54.78 % 
+TypeScript               2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ddos_detection           1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   38.07 % 
-DDoS                     1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   30.19 % 
-sugang_system            44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-backend                  32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-sugang                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+ddos_detection           1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+DDoS                     1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+backend                  1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+frontend                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+sugang_system            44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 
 💻 Operating System: 
-Windows                  3 hrs 26 mins       █████████████████░░░░░░░░   68.26 % 
-WSL                      1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   31.74 % 
+WSL                      3 hrs 55 mins       █████████████░░░░░░░░░░░░   53.25 % 
+Windows                  3 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.75 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,5 +80,5 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2025 18:48:37 UTC
+ Last Updated on 26/03/2025 18:49:14 UTC
 <!--END_SECTION:waka-->
