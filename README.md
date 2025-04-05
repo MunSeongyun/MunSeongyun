@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.5 kB Used in GitHub's Storage 
- > 
-> 🏆 312 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,5 +78,5 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2025 18:47:38 UTC
+ Last Updated on 05/04/2025 18:44:39 UTC
 <!--END_SECTION:waka-->
