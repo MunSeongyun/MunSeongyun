@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,24 +40,24 @@ Sunday                   160 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               11 hrs 31 mins      ████████████████████░░░░░   79.18 % 
-Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript               9 hrs 51 mins       ███████████████████░░░░░░   76.48 % 
+Python                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  8 hrs 55 mins       ███████████████░░░░░░░░░░   61.30 % 
-frontend                 2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-main                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-translation              1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-ts_class                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+backend                  7 hrs 15 mins       ██████████████░░░░░░░░░░░   56.29 % 
+frontend                 2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+main                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+translation              1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+ts_class                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 💻 Operating System: 
-WSL                      14 hrs 33 mins      █████████████████████████   100.00 % 
+WSL                      12 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,5 +77,5 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2025 18:48:31 UTC
+ Last Updated on 26/04/2025 18:44:51 UTC
 <!--END_SECTION:waka-->
