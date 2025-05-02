@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 52.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 446 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,25 +40,25 @@ Sunday                   142 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               4 hrs 1 min         ██████████████████████░░░   88.03 % 
-YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript               3 hrs 48 mins       ██████████████████████░░░   87.47 % 
+YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  3 hrs 13 mins       ██████████████████░░░░░░░   70.42 % 
-ts_class                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-frontend                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-wordpress                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-web                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+backend                  2 hrs 59 mins       █████████████████░░░░░░░░   68.90 % 
+ts_class                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+frontend                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+wordpress                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+web                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 💻 Operating System: 
-WSL                      4 hrs 25 mins       ████████████████████████░   96.93 % 
-Windows                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+WSL                      4 hrs 12 mins       ████████████████████████░   96.78 % 
+Windows                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,5 +78,5 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 18:49:27 UTC
+ Last Updated on 02/05/2025 18:48:29 UTC
 <!--END_SECTION:waka-->
