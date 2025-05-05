@@ -7,8 +7,6 @@
 
 > 📦 52.6 kB Used in GitHub's Storage 
  > 
-> 🏆 446 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -42,25 +40,22 @@ Sunday                   142 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 48 mins       ██████████████████████░░░   87.47 % 
-YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               27 mins             ███████████████████░░░░░░   74.79 % 
+Other                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  2 hrs 59 mins       █████████████████░░░░░░░░   68.90 % 
-ts_class                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-frontend                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-wordpress                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-web                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+ts_class                 28 mins             ███████████████████░░░░░░   77.17 % 
+바탕 화면                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
 
 💻 Operating System: 
-WSL                      4 hrs 12 mins       ████████████████████████░   96.78 % 
-Windows                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+WSL                      28 mins             ███████████████████░░░░░░   77.17 % 
+Windows                  8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,5 +75,5 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2025 18:46:22 UTC
+ Last Updated on 05/05/2025 18:47:16 UTC
 <!--END_SECTION:waka-->
