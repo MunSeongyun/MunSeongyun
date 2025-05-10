@@ -16,21 +16,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-🌆 Daytime                958 commits         ███████████░░░░░░░░░░░░░░   44.43 % 
-🌃 Evening                687 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
-🌙 Night                  239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+🌞 Morning                292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+🌆 Daytime                994 commits         ███████████░░░░░░░░░░░░░░   44.43 % 
+🌃 Evening                693 commits         ████████░░░░░░░░░░░░░░░░░   30.98 % 
+🌙 Night                  258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   526 commits         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Tuesday                  463 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Wednesday                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Thursday                 336 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Friday                   266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Saturday                 143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Sunday                   142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Monday                   576 commits         ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Tuesday                  478 commits         █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Wednesday                287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Thursday                 338 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Friday                   272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Saturday                 144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Sunday                   142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 ```
 
 
@@ -75,5 +75,5 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2025 18:49:00 UTC
+ Last Updated on 10/05/2025 18:45:17 UTC
 <!--END_SECTION:waka-->
