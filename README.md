@@ -75,5 +75,5 @@ Python                   3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2025 18:45:17 UTC
+ Last Updated on 11/05/2025 18:45:42 UTC
 <!--END_SECTION:waka-->
