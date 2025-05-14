@@ -1,36 +1,36 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 57.4 kB Used in GitHub's Storage 
+> 📦 57.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-🌆 Daytime                1003 commits        ███████████░░░░░░░░░░░░░░   44.80 % 
-🌃 Evening                707 commits         ████████░░░░░░░░░░░░░░░░░   31.58 % 
-🌙 Night                  246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+🌞 Morning                283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+🌆 Daytime                1004 commits        ███████████░░░░░░░░░░░░░░   44.80 % 
+🌃 Evening                708 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌙 Night                  246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   544 commits         ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-Tuesday                  487 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Wednesday                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Thursday                 348 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Friday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Saturday                 148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Sunday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Monday                   544 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Tuesday                  487 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Wednesday                296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Thursday                 348 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Friday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Saturday                 148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Sunday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 ```
 
 
@@ -40,34 +40,34 @@ Sunday                   145 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               5 hrs 5 mins        ████████████████░░░░░░░░░   63.72 % 
-HTML                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Nginx configuration file 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+TypeScript               6 hrs 27 mins       █████████████████░░░░░░░░   66.74 % 
+HTML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Nginx configuration file 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-intelligent_secure       3 hrs 40 mins       ████████████░░░░░░░░░░░░░   46.01 % 
-ts_class                 1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-frontend                 1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-default_template         27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-nest                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+intelligent_secure       3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
+backend                  2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+frontend                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+nest_react_setup         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+ts_class                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 💻 Operating System: 
-WSL                      7 hrs 58 mins       █████████████████████████   100.00 % 
+WSL                      9 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               15 repos            ██████████░░░░░░░░░░░░░░░   40.54 % 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
@@ -77,5 +77,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2025 18:49:21 UTC
+ Last Updated on 14/05/2025 18:48:45 UTC
 <!--END_SECTION:waka-->
