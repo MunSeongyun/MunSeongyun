@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,24 +40,24 @@ Sunday                   145 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               6 hrs 27 mins       █████████████████░░░░░░░░   66.74 % 
-HTML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Nginx configuration file 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+TypeScript               6 hrs 32 mins       █████████████████░░░░░░░░   67.06 % 
+HTML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Nginx configuration file 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-intelligent_secure       3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
-backend                  2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-frontend                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-nest_react_setup         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-ts_class                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+intelligent_secure       3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   37.62 % 
+backend                  2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+frontend                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+nest_react_setup         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+ts_class                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 💻 Operating System: 
-WSL                      9 hrs 39 mins       █████████████████████████   100.00 % 
+WSL                      9 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,5 +77,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MunSeongyun/MunSeongyun/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 18:48:45 UTC
+ Last Updated on 15/05/2025 18:50:46 UTC
 <!--END_SECTION:waka-->
