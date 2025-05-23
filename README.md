@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white">
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=ESLint&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=TailwindCSS&logoColor=white">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=plastic&logo=Jest&logoColor=white">
 </div>
 
 <!-- 🔧 Tools & DevOps -->
