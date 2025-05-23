@@ -57,7 +57,7 @@
            /> </div> 
     </div>
     
-<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📊 WakaTime</h4>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📊 WakaTime</h2>
 <div style="text-align: left;">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MunSeongyun&layout=compact&theme=tokyonight" />
 </div>
