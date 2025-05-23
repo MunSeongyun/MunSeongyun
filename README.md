@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=GitHub%20Actions&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/WakaTime-000000?style=plastic&logo=WakaTime&logoColor=white">
 </div>
 
 <!-- 🗄️ Database & Platform -->
