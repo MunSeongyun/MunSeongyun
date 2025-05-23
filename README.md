@@ -8,7 +8,7 @@
     <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Studying... </h2>
 
-<!-- 🗣️ Language -->
+<!-- 💬 Language -->
 <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💬 Language</h4>
 <div style="text-align: left;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
 </div>
 
-<!-- 🧱 Framework / Library -->
+<!-- 📦 Framework / Library -->
 <h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📦 Framework / Library</h4>
 <div style="text-align: left;">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=Laravel&logoColor=white">
@@ -26,19 +26,30 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=NestJS&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white">
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=ESLint&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=TailwindCSS&logoColor=white">
 </div>
 
-<!-- ⚙️ Tools / Platform -->
-<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔧 Tools / Platform</h4>
+<!-- 🔧 Tools & DevOps -->
+<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧰 Tools & DevOps</h4>
 <div style="text-align: left;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=GitHub%20Actions&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/WakaTime-000000?style=plastic&logo=WakaTime&logoColor=white">
+</div>
+
+<!-- 🗄️ Database & Platform -->
+<h4 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🗄️ Database & Platform</h4>
+<div style="text-align: left;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=Nginx&logoColor=white">
 </div>
     </div>
     <div style="text-align: left;"> 
