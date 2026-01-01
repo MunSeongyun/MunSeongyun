@@ -53,12 +53,4 @@
 </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=MunSeongyun&bg_color=180,f5f5f5,00000000&title_color=3399cc&text_color=3399cc"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunSeongyun&layout=compact&bg_color=180,f5f5f5,00000000&title_color=3399cc&text_color=3399cc"
-           /> </div> 
-    </div>
     
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📊 WakaTime</h2>
-<div style="text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MunSeongyun&layout=compact&theme=tokyonight" />
-</div>
